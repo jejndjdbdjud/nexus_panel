@@ -55,7 +55,7 @@ def intro():
     os.system('clear')
     print(logo)
    # os.system('xdg-open https://t.me/usnexushacker')
-     print
+    print
     print blue+"[\033[1;31m01\033[1;94m] \033[1;35m>>\033[1;32m Admin-Finder"
     print blue+"[\033[1;31m02\033[1;94m] \033[1;35m>>\033[1;32m Admin-Scanner"
     print blue+"[\033[1;31m03\033[1;94m] \033[1;35m>>\033[1;32m Dork-Generator"
